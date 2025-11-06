@@ -1,9 +1,4 @@
-
----
-
-# 7) `app.py` (main app)
-
-```python
+python
 from __future__ import annotations
 
 import io
@@ -244,3 +239,4 @@ with tab3:
         - Favor **edge** over outcomes: improve your process, not your luck.
         """
     )
+
